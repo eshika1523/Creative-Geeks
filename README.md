@@ -1,4 +1,8 @@
 # Creative-Geeks
+![WhatsApp Image 2021-06-18 at 3 32 06 PM](https://user-images.githubusercontent.com/65416382/122544415-6d02f600-d04a-11eb-810e-e94d107597b1.jpeg)
+
+
+
 An online education platform for the students who want to sharp their skills and enhance their knowledge.
 The courses we provide are the foundation for the future. Nowadays, the technology is in the demand and we are here to provide the easiest way of learning and understanding through our interactive courses.
 For the IBM WITACE women hackathon
@@ -30,3 +34,4 @@ by providing free education to the ones who are in need, especially on programmi
 
 and one of the most important parts of education is coding, or programming, as days are passing, computers are becoming more generalized productivity utility tool, and programming is becoming a must-have skill to make your daily tasks easier and it's should be taught to children, from their early days after reaching 5th standard and afterward, gradually but slowly.
 Students should be taught with basic knowledge of programming from their early days, as it would help them to increase their brain functionality them and helps them improve them at the overall basis
+
